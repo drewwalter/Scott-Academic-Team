@@ -4,12 +4,12 @@ This is study Materials for all subjects in the KAAC Governors Cup Academic Comp
 
 ## Subjects
 
-- [**Arts & Humanities**](Arts & Humanities)
-- [**Language Arts**](Language Arts)
+- [**Arts%20&%20Humanities**](Arts & Humanities)
+- [**Language%20Arts**](Language Arts)
 - [**Math**](Math)
-- [**Quick Recall**](Quick Recall)
+- [**Quick%20Recall**](Quick Recall)
 - [**Science**](Science)
-- [**Social Studies**](Social Studies)
+- [**Social%20Studies**](Social Studies)
 
 ## Usage
 
@@ -19,7 +19,7 @@ I have created this folder structure based on the subjects that are on the KAAC 
 
 I have tried to make this repository as complete as posable but I will have inevitably forget or misrepresent something, so in that case if you have any materials that you would like to contribute to this repository, please follow these steps:
 
-1. Open Github [Github](URL) (If on Google Drive or File Explorer)
+1. Open [Github](https://github.com/drewwalter/Scott-Academic-Team) (If on Google Drive or File Explorer)
 2. Fork this repository.
 3. Create a new branch for your contribution.
 4. Add your materials to the appropriate subject folder.
