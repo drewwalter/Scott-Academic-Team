@@ -4,12 +4,12 @@ This is study Materials for all subjects in the KAAC Governors Cup Academic Comp
 
 ## Subjects
 
-- [**Arts%20&%20Humanities**](Arts & Humanities)
-- [**Language%20Arts**](Language Arts)
+- [**Arts&Humanities**](Arts%20&%20Humanities)
+- [**LanguageArts**](Language%20Arts)
 - [**Math**](Math)
-- [**Quick%20Recall**](Quick Recall)
+- [**QuickRecall**](Quick%20Recall)
 - [**Science**](Science)
-- [**Social%20Studies**](Social Studies)
+- [**SocialStudies**](Social%20Studies)
 
 ## Usage
 
