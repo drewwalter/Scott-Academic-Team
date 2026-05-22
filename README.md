@@ -30,23 +30,6 @@ I have tried to make this repository as complete as posable but I will have inev
 
 This repository is licensed under the GNU GPLv3 You are free to use, modify, and distribute the materials in this repository for any purpose, as long as you give appropriate credit and do not hold the original authors liable for any issues that may arise from using the materials.
 
-*Damian Edgar Downs* **MAY NOT** copy any of the files, links, or any other material in this repository to:
-
-- **Google Docs**
-- Any other repository
-- Any other website
-- Any other platform
-
-Without the prior express written consent of *Andrew Walter* (owner of this repo).
-
-If written consent it granted then the material **MUST** include atributation to this repo.
-
-This prohibition applies to direct copying, indirect copying, screenshots, re‑typing, paraphrasing, summarizing, exporting, or creating derivative works in any form.
-
-*Damian Edgar Downs* may not share, transmit, forward, or otherwise distribute these materials to any individual or group, whether privately or publicly with the intent for the materials to be transmited to another service.
-
-Any unauthorized use constitutes a violation of these terms and may result in revocation of access. (I hate you Damien)
-
 ## Contact
 
 If you have any questions or concerns about this repository, please feel free to contact me through the Academic Team Group Chat (Or DMs) or through the GitHub issues page.
