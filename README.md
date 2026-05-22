@@ -13,7 +13,7 @@ This is study Materials for all subjects in the KAAC Governors Cup Academic Comp
 
 ## Usage
 
-I have created this folder structure based on the subjects that are on the KAAC website and test quizzes. To use this repository, simply navigate to the subject you want to study and click on the link or file that you want to use. If it is a file, please make a copy of it before using it (If useing the main repository).
+I have created this folder structure based on the subjects that are on the KAAC website and test quizzes. To use this repository, simply navigate to the subject you want to study and click on the link or file that you want to use. If it is a file, please make a copy of it before using it (If using the main repository).
 
 ## Contributing
 
